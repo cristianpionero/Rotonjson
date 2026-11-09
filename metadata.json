@@ -1,0 +1,6 @@
+{
+  "name": "Robotaylon - Agente de Ciberseguridad y QA",
+  "description": "Agente autónomo de ciberseguridad y QA a ritmo humano para desarrolladores independientes y agencias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
